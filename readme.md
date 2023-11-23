@@ -23,5 +23,7 @@ This webpage is about the use of some commands in JavaScripts
 ## Licence information
 * MIT
 
-## Contact
+## Contact information
+* Phone Number; 080317852266
+* Email Address; arowolohaleem@gmail.com
 
