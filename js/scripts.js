@@ -15,3 +15,15 @@ function newString() {
     let reverse = text.charAt(text.length - 1) + text.charAt(0)
     return reverse.toUpperCase().toString();
   }
+
+//a third function that calls the other two function
+function callFunctions() {
+  newString();
+  reverseNewString();
+  return text + reverseNewString();
+}
+function countCharacters() {
+  let countCharacters = text.length;
+  let indexLetter = parseInt((countCharacters) / 2);
+  return indexLetter.charAt();
+}
