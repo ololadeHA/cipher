@@ -1,7 +1,7 @@
 
 //to enter a sentencs
-// const userSentence = prompt("Please enter a sentence")
-// let text = userSentence
+const userSentence = prompt("Please enter a sentence")
+let text = userSentence
 
 //function to capitalize the first and last letter
 // function newString() {
