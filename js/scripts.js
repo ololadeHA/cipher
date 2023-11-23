@@ -32,4 +32,10 @@ function determineCharacter() {
   return countCharacters().charAt();
 }
 
-function
+function reverse() {
+  text.split;
+  return text.split('').reverse().join('');
+}
+$('img').click(function() {
+  alert('this is my image')
+})
