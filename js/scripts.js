@@ -23,7 +23,13 @@ function callFunctions() {
   return text + reverseNewString();
 }
 function countCharacters() {
-  let countCharacters = text.length;
-  let indexLetter = parseInt((countCharacters) / 2);
+  let Characterscount = text.length;
+  let indexLetter = parseInt((Characterscount) / 2);
   return indexLetter.charAt();
 }
+
+function determineCharacter() {
+  return countCharacters().charAt();
+}
+
+function
