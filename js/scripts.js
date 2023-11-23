@@ -11,7 +11,7 @@ function newString() {
 }
 
 //function to reverse  
-  // function reverseNewString() {
-  //   let reverse = text.charAt(text.length - 1) + text.charAt(0)
-  //   return reverse.toUpperCase().toString();
-  // }
+  function reverseNewString() {
+    let reverse = text.charAt(text.length - 1) + text.charAt(0)
+    return reverse.toUpperCase().toString();
+  }
